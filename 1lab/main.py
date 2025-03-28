@@ -12,5 +12,11 @@ def start_client():
 if __name__ == "__main__":
     server_thread = threading.Thread(target=start_server)
     server_thread.start()
+
+
+
+
+
+
     
     start_client()
