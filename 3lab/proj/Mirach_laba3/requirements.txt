@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+redislite
+python-multipart
+python-jose
+pydantic
+requests
+celery
+aiohttp
+pydantic[email]
+websockets
